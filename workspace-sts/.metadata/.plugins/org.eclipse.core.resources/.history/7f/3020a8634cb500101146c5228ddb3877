@@ -1,0 +1,4 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/studentDatabasa
+spring.datasource.name=root
+spring.datasource.password=Liyaz@123
+spring.application.name=SpringBootRestAPIProject

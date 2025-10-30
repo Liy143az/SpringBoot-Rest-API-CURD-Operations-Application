@@ -1,0 +1,4 @@
+begin 
+dbma_output.put.line('hello oracle');
+end;
+/
